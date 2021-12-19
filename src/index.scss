@@ -1,0 +1,37 @@
+@font-face {
+  font-family: 'shamel-bold';
+  src: url('./fonts/SF-Bold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'shamel-book';
+  src: url('./fonts/SF-Book.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'shamel-light';
+  src: url('./fonts/SF-Light.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'shamel-medium';
+  src: url('./fonts/SF-Medium.ttf') format('truetype');
+}
+
+body {
+  margin: 0;
+  font-family: shamel-medium;
+  font-size: 62.5% !important;
+}
+
+.shamel-bold {
+  font-family: 'shamel-bold';
+}
+.shamel-medium {
+  font-family: 'shamel-medium';
+}
+.shamel-light {
+  font-family: 'shamel-light';
+}
+.shamel-book {
+  font-family: 'shamel-book';
+}
