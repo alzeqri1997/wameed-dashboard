@@ -1,0 +1,25 @@
+.fw-md {
+  font-size: 1.07rem;
+}
+.fw-sm {
+  font-size: 1.01rem;
+}
+
+.active {
+  background-color: #0079f2;
+  span {
+    color: white;
+  }
+
+  svg {
+    fill: #171e48;
+  }
+}
+
+.header-expand {
+  padding-right: 31px + 354px;
+}
+
+.nav-hide {
+  right: -100vw !important;
+}
