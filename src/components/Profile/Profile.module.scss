@@ -1,0 +1,26 @@
+.avatar {
+  .ImgContainer {
+    position: relative;
+    .img {
+      width: 3rem;
+    }
+    i {
+      position: absolute;
+      left: -1px;
+      bottom: -2px;
+    }
+  }
+  .text {
+    margin-right: 1rem;
+    margin-left: 2.6rem;
+
+    .name {
+      margin-bottom: 9px;
+    }
+
+    .title {
+      margin-bottom: 0;
+      font-size: 11px;
+    }
+  }
+}
