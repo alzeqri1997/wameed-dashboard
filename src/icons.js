@@ -825,3 +825,339 @@ export const BarsIcon = () => (
     ></path>
   </svg>
 );
+
+export const Setting2Icon = ({ color = '#0079f2' }) => (
+  <svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="24"
+    height="24"
+    viewBox="0 0 24 24"
+  >
+    <g id="setting-5" transform="translate(24 0) rotate(90)">
+      <path
+        id="Vector"
+        d="M0,11V0"
+        transform="translate(19 11)"
+        fill="none"
+        stroke={color}
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth="2"
+      />
+      <path
+        id="Vector-2"
+        data-name="Vector"
+        d="M0,5V0"
+        transform="translate(19 2)"
+        fill="none"
+        stroke={color}
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth="2"
+      />
+      <path
+        id="Vector-3"
+        data-name="Vector"
+        d="M0,5V0"
+        transform="translate(12 17)"
+        fill="none"
+        stroke={color}
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth="2"
+      />
+      <path
+        id="Vector-4"
+        data-name="Vector"
+        d="M0,11V0"
+        transform="translate(12 2)"
+        fill="none"
+        stroke={color}
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth="2"
+      />
+      <path
+        id="Vector-5"
+        data-name="Vector"
+        d="M0,11V0"
+        transform="translate(5 11)"
+        fill="none"
+        stroke={color}
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth="2"
+      />
+      <path
+        id="Vector-6"
+        data-name="Vector"
+        d="M0,5V0"
+        transform="translate(5 2)"
+        fill="none"
+        stroke={color}
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth="2"
+      />
+      <path
+        id="Vector-7"
+        data-name="Vector"
+        d="M0,0H4"
+        transform="translate(3 11)"
+        fill="none"
+        stroke={color}
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth="2"
+      />
+      <path
+        id="Vector-8"
+        data-name="Vector"
+        d="M0,0H4"
+        transform="translate(17 11)"
+        fill="none"
+        stroke={color}
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth="2"
+      />
+      <path
+        id="Vector-9"
+        data-name="Vector"
+        d="M0,0H4"
+        transform="translate(10 13)"
+        fill="none"
+        stroke={color}
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth="2"
+      />
+      <path
+        id="Vector-10"
+        data-name="Vector"
+        d="M0,0H24V24H0Z"
+        transform="translate(0)"
+        fill="none"
+        opacity="0"
+      />
+    </g>
+  </svg>
+);
+
+export const ArrowDown2Icon = () => (
+  <svg
+    id="arrow-square-down"
+    xmlns="http://www.w3.org/2000/svg"
+    width="24"
+    height="24"
+    viewBox="0 0 24 24"
+  >
+    <path
+      id="Vector"
+      d="M0,0,3.53,3.52,7.06,0"
+      transform="translate(8.47 10.64)"
+      fill="none"
+      stroke="#7f8384"
+      strokeLinecap="round"
+      strokeLinejoin="round"
+      strokeWidth="1.5"
+    />
+    <path
+      id="Vector-2"
+      data-name="Vector"
+      d="M24,24H0V0H24Z"
+      fill="none"
+      opacity="0"
+    />
+  </svg>
+);
+
+export const Element3Icon = ({ color }) => (
+  <svg
+    id="vuesax_linear_element-3"
+    data-name="vuesax/linear/element-3"
+    xmlns="http://www.w3.org/2000/svg"
+    width="24"
+    height="24"
+    viewBox="0 0 24 24"
+  >
+    <g id="element-3">
+      <path
+        id="Vector"
+        d="M8.5,6.52V1.98C8.5.57,7.86,0,6.27,0H2.23C.64,0,0,.57,0,1.98V6.51C0,7.93.64,8.49,2.23,8.49H6.27C7.86,8.5,8.5,7.93,8.5,6.52Z"
+        transform="translate(13.5 2)"
+        fill="none"
+        stroke={color}
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth="1.5"
+      />
+      <path
+        id="Vector-2"
+        data-name="Vector"
+        d="M8.5,6.27V2.23C8.5.64,7.86,0,6.27,0H2.23C.64,0,0,.64,0,2.23V6.27C0,7.86.64,8.5,2.23,8.5H6.27C7.86,8.5,8.5,7.86,8.5,6.27Z"
+        transform="translate(13.5 13.5)"
+        fill="none"
+        stroke={color}
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth="1.5"
+      />
+      <path
+        id="Vector-3"
+        data-name="Vector"
+        d="M8.5,6.52V1.98C8.5.57,7.86,0,6.27,0H2.23C.64,0,0,.57,0,1.98V6.51C0,7.93.64,8.49,2.23,8.49H6.27C7.86,8.5,8.5,7.93,8.5,6.52Z"
+        transform="translate(2 2)"
+        fill="none"
+        stroke={color}
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth="1.5"
+      />
+      <path
+        id="Vector-4"
+        data-name="Vector"
+        d="M8.5,6.27V2.23C8.5.64,7.86,0,6.27,0H2.23C.64,0,0,.64,0,2.23V6.27C0,7.86.64,8.5,2.23,8.5H6.27C7.86,8.5,8.5,7.86,8.5,6.27Z"
+        transform="translate(2 13.5)"
+        fill="none"
+        stroke={color}
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth="1.5"
+      />
+      <path
+        id="Vector-5"
+        data-name="Vector"
+        d="M0,0H24V24H0Z"
+        fill="none"
+        opacity="0"
+      />
+    </g>
+  </svg>
+);
+
+export const TaskIcon = ({ color }) => (
+  <svg
+    id="task"
+    xmlns="http://www.w3.org/2000/svg"
+    width="24"
+    height="24"
+    viewBox="0 0 24 24"
+  >
+    <path
+      id="Vector"
+      d="M0,0H10"
+      transform="translate(11 19.5)"
+      fill="none"
+      stroke={color}
+      strokeLinecap="round"
+      strokeLinejoin="round"
+      strokeWidth="2"
+    />
+    <path
+      id="Vector-2"
+      data-name="Vector"
+      d="M0,0H10"
+      transform="translate(11 12.5)"
+      fill="none"
+      stroke={color}
+      strokeLinecap="round"
+      strokeLinejoin="round"
+      strokeWidth="2"
+    />
+    <path
+      id="Vector-3"
+      data-name="Vector"
+      d="M0,0H10"
+      transform="translate(11 5.5)"
+      fill="none"
+      stroke={color}
+      strokeLinecap="round"
+      strokeLinejoin="round"
+      strokeWidth="2"
+    />
+    <path
+      id="Vector-4"
+      data-name="Vector"
+      d="M0,2,1,3,4,0"
+      transform="translate(3 3.5)"
+      fill="none"
+      stroke={color}
+      strokeLinecap="round"
+      strokeLinejoin="round"
+      strokeWidth="2"
+    />
+    <path
+      id="Vector-5"
+      data-name="Vector"
+      d="M0,2,1,3,4,0"
+      transform="translate(3 10.5)"
+      fill="none"
+      stroke={color}
+      strokeLinecap="round"
+      strokeLinejoin="round"
+      strokeWidth="2"
+    />
+    <path
+      id="Vector-6"
+      data-name="Vector"
+      d="M0,2,1,3,4,0"
+      transform="translate(3 17.5)"
+      fill="none"
+      stroke={color}
+      strokeLinecap="round"
+      strokeLinejoin="round"
+      strokeWidth="2"
+    />
+    <path
+      id="Vector-7"
+      data-name="Vector"
+      d="M0,0H24V24H0Z"
+      fill="none"
+      opacity="0"
+    />
+  </svg>
+);
+
+export const MenuIcon = () => (
+  <svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="4"
+    height="20"
+    viewBox="0 0 4 20"
+  >
+    <g
+      id="Group_131941"
+      data-name="Group 131941"
+      transform="translate(-4537 -6956)"
+    >
+      <circle
+        id="Ellipse_809"
+        data-name="Ellipse 809"
+        cx="2"
+        cy="2"
+        r="2"
+        transform="translate(4537 6956)"
+        fill="#333"
+      />
+      <circle
+        id="Ellipse_810"
+        data-name="Ellipse 810"
+        cx="2"
+        cy="2"
+        r="2"
+        transform="translate(4537 6964)"
+        fill="#333"
+      />
+      <circle
+        id="Ellipse_811"
+        data-name="Ellipse 811"
+        cx="2"
+        cy="2"
+        r="2"
+        transform="translate(4537 6972)"
+        fill="#333"
+      />
+    </g>
+  </svg>
+);
