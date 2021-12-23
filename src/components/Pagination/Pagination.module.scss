@@ -1,0 +1,40 @@
+.pagination {
+  margin: 40px 0;
+  text-align: end;
+}
+
+.left {
+  padding: 13px 26px;
+  background-color: #fff;
+  border-radius: 28px;
+  display: inline-block;
+}
+.right {
+  padding: 13px 26px;
+  background-color: #fff;
+  border-radius: 28px;
+  display: inline-block;
+}
+.text {
+  font-size: 16px;
+  text-decoration: none;
+  color: #171e48;
+  margin: 0 5px;
+}
+
+.items {
+  display: inline-block;
+  background-color: #fff;
+  padding: 12px 26px;
+  border-radius: 28px;
+  margin: 0 26px;
+
+  .item {
+    &:not(:last-child) {
+      margin-right: 31px;
+    }
+    text-decoration: none;
+    font-size: 18px;
+    color: #171e48;
+  }
+}
