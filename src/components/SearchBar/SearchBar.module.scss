@@ -1,7 +1,9 @@
 .searchBar {
   position: relative;
   margin-left: 160px;
+  transition: 0.5s;
   .inputTag {
+    transition: 0.5s;
     width: 500px;
     background-color: #f5f5f5;
     border: none;
@@ -23,5 +25,49 @@
     top: 50%;
     transform: translateY(-50%);
     right: 24px;
+  }
+}
+
+// .inputButton {
+//   background-color: unset;
+//   border: unset;
+// }
+
+// media queries
+
+@media (max-width: 1919px) {
+  .searchBar {
+    margin-left: 70px;
+
+    .inputTag {
+      width: 400px;
+      padding: 16px 59px 16px 16px;
+    }
+  }
+}
+@media (max-width: 1600px) {
+  .searchBar {
+    margin-left: 32px;
+
+    .inputTag {
+      width: 300px;
+    }
+  }
+}
+
+// @media (min-width: 1400px) {
+//   .inputButton {
+//     display: none;
+//   }
+// }
+
+@media (max-width: 1400px) {
+  .searchBar {
+    // display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    transform: translate(220px, -100px);
+    border: 1px solid;
   }
 }

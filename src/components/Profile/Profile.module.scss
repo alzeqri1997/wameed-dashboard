@@ -11,8 +11,8 @@
     }
   }
   .text {
-    margin-right: 1rem;
-    margin-left: 2.6rem;
+    margin-right: 10px;
+    margin-left: 26px;
 
     .name {
       margin-bottom: 9px;
@@ -22,5 +22,24 @@
       margin-bottom: 0;
       font-size: 11px;
     }
+  }
+}
+
+// media queries
+
+@media (max-width: 1919px) {
+  .avatar {
+    margin-left: 1.5rem;
+  }
+}
+@media (max-width: 970px) {
+  .text {
+    margin-right: 10px !important;
+    margin-left: 20px !important;
+  }
+}
+@media (max-width: 580px) {
+  .ImgContainer {
+    display: none;
   }
 }

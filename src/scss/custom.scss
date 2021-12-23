@@ -1,3 +1,7 @@
+button {
+  padding: 0;
+}
+
 .fw-md {
   font-size: 1.07rem;
 }
@@ -17,7 +21,21 @@
 }
 
 .header-expand {
-  padding-right: 31px + 354px;
+  padding-right: 30px + 354px;
+}
+
+.main-expand {
+  padding-right: 354px !important;
+}
+
+@media (max-width: 1600px) {
+  .header-expand {
+    padding-right: 30px + 300px;
+  }
+
+  .main-expand {
+    padding-right: 300px !important;
+  }
 }
 
 .nav-hide {
@@ -31,6 +49,11 @@
 }
 
 .icon-active {
+  background-color: #0079f2 !important;
+}
+
+// checkbox style
+input:checked {
   background-color: #0079f2 !important;
 }
 
@@ -100,6 +123,37 @@
     }
   }
 
+  @media (max-width: 970px) {
+    white-space: nowrap;
+    th,
+    td {
+      font-size: 10px;
+    }
+    thead {
+      tr {
+        th {
+          &:first-child {
+            padding-right: 20px;
+          }
+
+          padding: 20px 10px 20px 0 !important;
+        }
+      }
+    }
+    tbody {
+      tr {
+        th,
+        td {
+          &:first-child {
+            padding-right: 20px;
+          }
+
+          padding: 20px 10px 20px 0 !important;
+        }
+      }
+    }
+  }
+
   & > tbody {
     tr {
       &:nth-of-type(2n) {
@@ -112,5 +166,33 @@
       }
     }
     // border-top: 1px solid unset !important;
+  }
+}
+
+// pagination active
+
+.pagination-active {
+  background: #0079f2;
+  padding: 1.2em;
+  border-radius: 50%;
+  color: #fff !important;
+}
+
+// filter
+
+.filter-active {
+  color: #0079f2 !important;
+  background-color: #e1ebfb !important;
+}
+
+// open inputBar or menuIcons
+
+.open {
+  transform: translate(220px, 100px) !important;
+}
+
+@media (max-width: 580px) {
+  .open {
+    transform: translate(40px, 120px) !important;
   }
 }
