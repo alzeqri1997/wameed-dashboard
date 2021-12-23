@@ -6,15 +6,19 @@ $nav-width-open: 354px;
   top: 0;
   right: 0;
   width: $nav-width-open;
+  @media (max-width: 1600px) {
+    width: 300px;
+  }
   height: 100vh;
   min-height: 700px;
   background-color: white;
   // padding: 1.25rem 0.5 2rem;
   transition: 0.5s;
-  z-index: 100;
+  z-index: 1;
 }
 
 .nav {
+  position: relative;
   height: 100%;
   display: flex;
   flex-direction: column;
@@ -56,9 +60,31 @@ $nav-width-open: 354px;
   padding: 1rem 30px 10px 0;
 
   margin-bottom: 10px;
+
+  &:hover {
+    color: unset;
+  }
 }
 
 .link_bottom {
   @extend .link;
   padding: 1rem 44px 10px 0;
+}
+
+.close_icon {
+  display: none;
+  background-color: #fbfbfb;
+  border: none;
+  width: 25px;
+  height: 25px;
+  border-radius: 5px;
+  position: absolute;
+  left: 7px;
+  top: 30px;
+}
+
+@media screen and (max-width: 1180px) {
+  .close_icon {
+    display: block;
+  }
 }
