@@ -1,7 +1,44 @@
 .menu {
   margin-left: 36px;
+  transition: 0.5s;
 }
 
 .padding_left {
-  padding-left: 40px;
+  &:not(:last-child) {
+    margin-left: 40px;
+  }
+  position: relative;
+  background-color: unset;
+  border: none;
+}
+// media query
+
+@media (max-width: 1919px) {
+  .menu {
+    margin-left: 26px;
+  }
+  .padding_left {
+    &:not(:last-child) {
+      margin-left: 20px;
+    }
+  }
+}
+
+// @media (min-width: 1400px) {
+//   .menuButton {
+//     display: none;
+//   }
+// }
+
+@media (max-width: 1400px) {
+  .menu {
+    position: absolute;
+    left: 0;
+    top: 0;
+    transform: translate(230px, -100px);
+    background: white;
+    border: 1px solid;
+    padding: 1rem;
+    border-radius: 10px;
+  }
 }
