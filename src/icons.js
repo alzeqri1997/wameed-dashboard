@@ -130,9 +130,9 @@ export const HouseIcon = () => (
         transform="translate(2.813 30.938)"
         fill="none"
         stroke="#fff"
-        stroke-linecap="round"
-        stroke-linejoin="round"
-        stroke-width="1.5"
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth="1.5"
       />
       <path
         id="Vector-2"
@@ -141,8 +141,8 @@ export const HouseIcon = () => (
         transform="translate(4.148 3.558)"
         fill="none"
         stroke="#fff"
-        stroke-linejoin="round"
-        stroke-width="1.5"
+        strokeLinejoin="round"
+        strokeWidth="1.5"
       />
       <path
         id="Vector-3"
@@ -151,8 +151,8 @@ export const HouseIcon = () => (
         transform="translate(13.359 23.906)"
         fill="none"
         stroke="#fff"
-        stroke-linejoin="round"
-        stroke-width="1.5"
+        strokeLinejoin="round"
+        strokeWidth="1.5"
       />
       <path
         id="Vector-4"
@@ -180,9 +180,9 @@ export const BriefcaseIcon = () => (
         transform="translate(3.163 8.438)"
         fill="none"
         stroke="#171e48"
-        stroke-linecap="round"
-        stroke-linejoin="round"
-        stroke-width="1.5"
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth="1.5"
       />
       <path
         id="Vector-2"
@@ -191,9 +191,9 @@ export const BriefcaseIcon = () => (
         transform="translate(11.25 2.813)"
         fill="none"
         stroke="#171e48"
-        stroke-linecap="round"
-        stroke-linejoin="round"
-        stroke-width="1.5"
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth="1.5"
       />
       <path
         id="Vector-3"
@@ -202,9 +202,9 @@ export const BriefcaseIcon = () => (
         transform="translate(14.063 16.875)"
         fill="none"
         stroke="#171e48"
-        stroke-linecap="round"
-        stroke-linejoin="round"
-        stroke-width="1.5"
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth="1.5"
       />
       <path
         id="Vector-4"
@@ -213,9 +213,9 @@ export const BriefcaseIcon = () => (
         transform="translate(19.688 15.469)"
         fill="none"
         stroke="#171e48"
-        stroke-linecap="round"
-        stroke-linejoin="round"
-        stroke-width="1.5"
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth="1.5"
       />
       <path
         id="Vector-5"
@@ -224,9 +224,9 @@ export const BriefcaseIcon = () => (
         transform="translate(3.684 15.848)"
         fill="none"
         stroke="#171e48"
-        stroke-linecap="round"
-        stroke-linejoin="round"
-        stroke-width="1.5"
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth="1.5"
       />
       <path
         id="Vector-6"
@@ -257,9 +257,9 @@ export const PenToolIcon = () => (
             transform="translate(2.913 11.893)"
             fill="none"
             stroke="#171e48"
-            stroke-linecap="round"
-            stroke-linejoin="round"
-            stroke-width="1.5"
+            strokeLinecap="round"
+            strokeLinejoin="round"
+            strokeWidth="1.5"
           />
           <path
             id="Vector-2"
@@ -267,9 +267,9 @@ export const PenToolIcon = () => (
             d="M9.859,11.879l2.433-2.166c1.364-1.209,1.42-2.053.337-3.417L8.34.854a2,2,0,0,0-3.277,0L.774,6.3C-.309,7.66-.309,8.546,1.112,9.714l2.433,2.166"
             fill="none"
             stroke="#171e48"
-            stroke-linecap="round"
-            stroke-linejoin="round"
-            stroke-width="1.5"
+            strokeLinecap="round"
+            strokeLinejoin="round"
+            strokeWidth="1.5"
           />
           <path
             id="Vector-3"
@@ -278,9 +278,9 @@ export const PenToolIcon = () => (
             transform="translate(6.695 0.559)"
             fill="none"
             stroke="#171e48"
-            stroke-linecap="round"
-            stroke-linejoin="round"
-            stroke-width="1.5"
+            strokeLinecap="round"
+            strokeLinejoin="round"
+            strokeWidth="1.5"
           />
         </g>
       </g>
@@ -292,9 +292,9 @@ export const PenToolIcon = () => (
           transform="translate(11.602)"
           fill="none"
           stroke="#171e48"
-          stroke-linecap="round"
-          stroke-linejoin="round"
-          stroke-width="1.5"
+          strokeLinecap="round"
+          strokeLinejoin="round"
+          strokeWidth="1.5"
         />
         <path
           id="Vector-5"
@@ -303,9 +303,9 @@ export const PenToolIcon = () => (
           transform="translate(0 12.895)"
           fill="none"
           stroke="#171e48"
-          stroke-linecap="round"
-          stroke-linejoin="round"
-          stroke-width="1.5"
+          strokeLinecap="round"
+          strokeLinejoin="round"
+          strokeWidth="1.5"
         />
         <path
           id="Vector-6"
@@ -314,9 +314,9 @@ export const PenToolIcon = () => (
           transform="translate(23.147 12.895)"
           fill="none"
           stroke="#171e48"
-          stroke-linecap="round"
-          stroke-linejoin="round"
-          stroke-width="1.5"
+          strokeLinecap="round"
+          strokeLinejoin="round"
+          strokeWidth="1.5"
         />
         <path
           id="Vector-7"
@@ -325,9 +325,9 @@ export const PenToolIcon = () => (
           transform="translate(2.081 2.194)"
           fill="none"
           stroke="#171e48"
-          stroke-linecap="round"
-          stroke-linejoin="round"
-          stroke-width="1.5"
+          strokeLinecap="round"
+          strokeLinejoin="round"
+          strokeWidth="1.5"
         />
         <path
           id="Vector-8"
@@ -336,9 +336,9 @@ export const PenToolIcon = () => (
           transform="translate(15.82 2.194)"
           fill="none"
           stroke="#171e48"
-          stroke-linecap="round"
-          stroke-linejoin="round"
-          stroke-width="1.5"
+          strokeLinecap="round"
+          strokeLinejoin="round"
+          strokeWidth="1.5"
         />
       </g>
       <path
@@ -360,9 +360,9 @@ export const TeacherIcon = () => (
       transform="translate(3.632 2.811)"
       fill="none"
       stroke="#171e48"
-      stroke-linecap="round"
-      stroke-linejoin="round"
-      stroke-width="1.5"
+      strokeLinecap="round"
+      strokeLinejoin="round"
+      strokeWidth="1.5"
     />
     <path
       id="Vector-2"
@@ -371,9 +371,9 @@ export const TeacherIcon = () => (
       transform="translate(7.903 18.394)"
       fill="none"
       stroke="#171e48"
-      stroke-linecap="round"
-      stroke-linejoin="round"
-      stroke-width="1.5"
+      strokeLinecap="round"
+      strokeLinejoin="round"
+      strokeWidth="1.5"
     />
     <path
       id="Vector-3"
@@ -382,9 +382,9 @@ export const TeacherIcon = () => (
       transform="translate(30.094 12.656)"
       fill="none"
       stroke="#171e48"
-      stroke-linecap="round"
-      stroke-linejoin="round"
-      stroke-width="1.5"
+      strokeLinecap="round"
+      strokeLinejoin="round"
+      strokeWidth="1.5"
     />
     <path
       id="Vector-4"
@@ -412,9 +412,9 @@ export const MessageIcon = () => (
         transform="translate(2.813 2.813)"
         fill="none"
         stroke="#171e48"
-        stroke-linecap="round"
-        stroke-linejoin="round"
-        stroke-width="1.5"
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth="1.5"
       />
       <path
         id="Vector-2"
@@ -423,9 +423,9 @@ export const MessageIcon = () => (
         transform="translate(9.844 11.25)"
         fill="none"
         stroke="#171e48"
-        stroke-linecap="round"
-        stroke-linejoin="round"
-        stroke-width="1.5"
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth="1.5"
       />
       <path
         id="Vector-3"
@@ -434,9 +434,9 @@ export const MessageIcon = () => (
         transform="translate(9.844 18.281)"
         fill="none"
         stroke="#171e48"
-        stroke-linecap="round"
-        stroke-linejoin="round"
-        stroke-width="1.5"
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth="1.5"
       />
       <path
         id="Vector-4"
@@ -457,9 +457,9 @@ export const SMSIcon = () => (
       transform="translate(2.813 4.922)"
       fill="none"
       stroke="#171e48"
-      stroke-linecap="round"
-      stroke-linejoin="round"
-      stroke-width="1.5"
+      strokeLinecap="round"
+      strokeLinejoin="round"
+      strokeWidth="1.5"
     />
     <path
       id="Vector-2"
@@ -468,9 +468,9 @@ export const SMSIcon = () => (
       transform="translate(9.844 12.656)"
       fill="none"
       stroke="#171e48"
-      stroke-linecap="round"
-      stroke-linejoin="round"
-      stroke-width="1.5"
+      strokeLinecap="round"
+      strokeLinejoin="round"
+      strokeWidth="1.5"
     />
     <path
       id="Vector-3"
@@ -496,9 +496,9 @@ export const LoginIcon = () => (
       transform="translate(12.516 3.502)"
       fill="none"
       stroke="#171e48"
-      stroke-linecap="round"
-      stroke-linejoin="round"
-      stroke-width="1.5"
+      strokeLinecap="round"
+      strokeLinejoin="round"
+      strokeWidth="1.5"
     />
     <path
       id="Vector-2"
@@ -507,9 +507,9 @@ export const LoginIcon = () => (
       transform="translate(2.813 16.875)"
       fill="none"
       stroke="#171e48"
-      stroke-linecap="round"
-      stroke-linejoin="round"
-      stroke-width="1.5"
+      strokeLinecap="round"
+      strokeLinejoin="round"
+      strokeWidth="1.5"
     />
     <path
       id="Vector-3"
@@ -518,9 +518,9 @@ export const LoginIcon = () => (
       transform="translate(17.789 12.164)"
       fill="none"
       stroke="#171e48"
-      stroke-linecap="round"
-      stroke-linejoin="round"
-      stroke-width="1.5"
+      strokeLinecap="round"
+      strokeLinejoin="round"
+      strokeWidth="1.5"
     />
     <path
       id="Vector-4"
@@ -549,9 +549,9 @@ export const SettingIcon = () => (
         transform="translate(12.656 12.656)"
         fill="none"
         stroke="#171e48"
-        stroke-linecap="round"
-        stroke-linejoin="round"
-        stroke-width="1.5"
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth="1.5"
       />
       <path
         id="Vector-2"
@@ -560,9 +560,9 @@ export const SettingIcon = () => (
         transform="translate(2.813 3.602)"
         fill="none"
         stroke="#171e48"
-        stroke-linecap="round"
-        stroke-linejoin="round"
-        stroke-width="1.5"
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth="1.5"
       />
       <path
         id="Vector-3"
@@ -591,9 +591,9 @@ export const MoonIcon = () => (
         transform="translate(2.816 2.806)"
         fill="none"
         stroke="#171e48"
-        stroke-linecap="round"
-        stroke-linejoin="round"
-        stroke-width="2"
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth="2"
       />
       <path
         id="Vector-2"
@@ -621,8 +621,8 @@ export const NotificationIcon = () => (
       transform="translate(5.588 4.092)"
       fill="none"
       stroke="#171e48"
-      stroke-linecap="round"
-      stroke-width="1.5"
+      strokeLinecap="round"
+      strokeWidth="1.5"
     />
     <path
       id="Vector-2"
@@ -631,9 +631,9 @@ export const NotificationIcon = () => (
       transform="translate(14.302 2.728)"
       fill="none"
       stroke="#171e48"
-      stroke-linecap="round"
-      stroke-linejoin="round"
-      stroke-width="1.5"
+      strokeLinecap="round"
+      strokeLinejoin="round"
+      strokeWidth="1.5"
     />
     <path
       id="Vector-3"
@@ -642,7 +642,7 @@ export const NotificationIcon = () => (
       transform="translate(12.684 26.803)"
       fill="none"
       stroke="#171e48"
-      stroke-width="1.5"
+      strokeWidth="1.5"
     />
     <path
       id="Vector-4"
@@ -668,9 +668,9 @@ export const MessagesIcon = () => (
       transform="translate(7.031 2.813)"
       fill="none"
       stroke="#171e48"
-      stroke-linecap="round"
-      stroke-linejoin="round"
-      stroke-width="1.5"
+      strokeLinecap="round"
+      strokeLinejoin="round"
+      strokeWidth="1.5"
     />
     <path
       id="Vector-2"
@@ -679,9 +679,9 @@ export const MessagesIcon = () => (
       transform="translate(2.813 12.656)"
       fill="none"
       stroke="#171e48"
-      stroke-linecap="round"
-      stroke-linejoin="round"
-      stroke-width="1.5"
+      strokeLinecap="round"
+      strokeLinejoin="round"
+      strokeWidth="1.5"
     />
     <path
       id="Vector-3"
@@ -728,8 +728,9 @@ export const SearchIcon = () => (
   </svg>
 );
 
-export const ArrowRight = ({ className }) => (
+export const ArrowRight = ({ className, style }) => (
   <svg
+    style={style}
     id="arrow-right"
     className={className}
     xmlns="http://www.w3.org/2000/svg"
@@ -743,9 +744,9 @@ export const ArrowRight = ({ className }) => (
       transform="translate(18.829 6.922)"
       fill="none"
       stroke="#171e48"
-      stroke-linecap="round"
-      stroke-linejoin="round"
-      stroke-width="2.5"
+      strokeLinecap="round"
+      strokeLinejoin="round"
+      strokeWidth="2.5"
     />
     <path
       id="Vector-2"
@@ -754,9 +755,9 @@ export const ArrowRight = ({ className }) => (
       transform="translate(4.085 15)"
       fill="none"
       stroke="#171e48"
-      stroke-linecap="round"
-      stroke-linejoin="round"
-      stroke-width="2.5"
+      strokeLinecap="round"
+      strokeLinejoin="round"
+      strokeWidth="2.5"
     />
     <path
       id="Vector-3"
@@ -781,7 +782,7 @@ export const OnlineIcon = () => (
       data-name="Ellipse 799"
       fill="#18b945"
       stroke="#f7f8fa"
-      stroke-width="1"
+      strokeWidth="1"
     >
       <circle cx="5.5" cy="5.5" r="5.5" stroke="none" />
       <circle cx="5.5" cy="5.5" r="5" fill="none" />
@@ -791,6 +792,7 @@ export const OnlineIcon = () => (
 
 export const ArrowDown = () => (
   <svg
+    style={{ transform: 'rotate(90deg)' }}
     xmlns="http://www.w3.org/2000/svg"
     width="6.225"
     height="10.556"
@@ -812,7 +814,7 @@ export const BarsIcon = () => (
     focusable="false"
     data-prefix="fas"
     data-icon="bars"
-    class="svg-inline--fa fa-bars fa-w-14"
+    className="svg-inline--fa fa-bars fa-w-14"
     role="img"
     xmlns="http://www.w3.org/2000/svg"
     viewBox="0 0 448 512"
